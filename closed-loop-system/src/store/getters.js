@@ -1,0 +1,16 @@
+export const loading = state => state.loading;
+export const isWhitePeople = state => state.isWhitePeople;
+export const newStageInfo = state => state.newStageInfo;
+export const searchData = state => state.searchData;
+export const isPopupShow = state => state.isPopupShow;
+export const projectMessage = state => state.projectMessage;
+export const selectedMan = state => state.selectedMan;
+export const selectedList = state => state.selectedList;
+export const dynamicDetailInfo = state => state.dynamicDetailInfo;
+export const cursor = state => state.cursor;
+export const projectHeadInfo = state => state.projectHeadInfo;
+export const userInfo = state => state.userInfo;
+export const userStatistics = state => state.userStatistics;
+export const version = state => state.version;
+export const from = state => state.from;
+export const token = state => state.token;
